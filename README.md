@@ -21,7 +21,7 @@ bank-marketing-analysis/
 ├── data/            <- Datos originales y limpios
 ├── sql/             <- Consultas SQL por categoría
 ├── tableau/         <- Dashboard en Tableau
-├── python/          <- Análisis adicional
+├── R/               <- Análisis adicional
 └── docs/            <- Documentación adicional
 ```
 
@@ -57,7 +57,7 @@ bank-marketing-analysis/
 ├── data/            <- Original and cleaned data
 ├── sql/             <- SQL queries by type
 ├── tableau/         <- Tableau dashboard
-├── python/          <- Additional analysis
+├── R/               <- Additional analysis
 └── docs/            <- Extra documentation
 ```
 
