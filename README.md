@@ -20,7 +20,6 @@ Algunos calculos y visualizaciones pueden llegar a repetirse. El fin de esto es 
 bank-marketing-analysis/
 ├── data/            <- Datos originales y limpios
 ├── sql/             <- Consultas SQL por categoría
-├── tableau/         <- Dashboard en Tableau
 ├── R/               <- Análisis adicional
 └── docs/            <- Documentación adicional
 ```
@@ -56,7 +55,6 @@ Some calculations and visualizations might appear more then once. This is intent
 bank-marketing-analysis/
 ├── data/            <- Original and cleaned data
 ├── sql/             <- SQL queries by type
-├── tableau/         <- Tableau dashboard
 ├── R/               <- Additional analysis
 └── docs/            <- Extra documentation
 ```
