@@ -1,6 +1,8 @@
 # (ESP) Análisis de Campaña de Marketing Bancario 
 En este proyecto se analiza un conjunto de datos reales de una campaña de telemarketing realizada por un banco portugués entre Mayo de 2008 y Noviembre de 2010. El objetivo de la campaña era ofrecer depósitos a largo plazo para sus clientes mediante llamadas telefónicas. A partir del conjunto de datos, se realizó un análisis completo utilizando SQL, Tableau y R (en progreso) para explorar factores asociados a la conversión del cliente (aceptación del producto que en este caso sería el depósito a largo plazo). El proyecto busca identificar patrones que puedan ayudar a optimizar campañas futuras mediante indicadores clave de rendimiento (KPIs por sus siglas en inglés). El dashboard completo puede verse en [**este enlace**](https://public.tableau.com/views/banking_data_17476933621050/DashboardTelemarketing?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
+![Alt text](bank-marketing-analysis/Figures/dashboard_bank_marketing.PNG)
+
 # Tecnologías utilizadas
 - SQL: Exploración de los datos, agrupamientos y cálculo de KPIs. Esto se llevó a cabo mediante BigQuery
 - Tableau: Visualización de tasas de conversión y segmentaciones
